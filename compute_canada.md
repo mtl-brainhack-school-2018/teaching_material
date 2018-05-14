@@ -7,11 +7,6 @@
 ![cluster architecture](https://github.com/SMART-Lab/smartdispatch/raw/master/wiki/images/cluster_overview.png)
 Image from [SMART Lab](https://github.com/SMART-Lab).
 
-### Where to get help?
-
-* Email support: ```support@computecanada.ca```
-* Wiki: [https://docs.computecanada.ca/wiki/Compute_Canada_Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
-
 ### Getting an account
 
 * Register here: https://ccdb.computecanada.ca/security/login
@@ -21,16 +16,21 @@ Image from [SMART Lab](https://github.com/SMART-Lab).
  [here](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account)
  with your CCDB username and email address.
 
+### Where to get help?
+
+* Email support: ```support@computecanada.ca```
+* Wiki: [https://docs.computecanada.ca/wiki/Compute_Canada_Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
 ## Clusters
 
-### Available clusters:
+### Available clusters
 
-[Cedar](https://docs.computecanada.ca/wiki/Cedar), 
-[Graham](https://docs.computecanada.ca/wiki/Graham), 
-[Niagara](https://docs.computecanada.ca/wiki/Niagara).
+General-purpose:
+* [Cedar](https://docs.computecanada.ca/wiki/Cedar), 
+* [Graham](https://docs.computecanada.ca/wiki/Graham), 
 
-Cedar and Graham are general-purpose clusters. Niagara is specialized for parallel jobs
+Specialized for parallel jobs:
+* [Niagara](https://docs.computecanada.ca/wiki/Niagara).
 
 ### Connect to a cluster
 
@@ -49,7 +49,7 @@ You are now connected to a login node, as the prompt shows:
  operations such as file transfers, job submissions, etc Data 
  processing or compilation must be done on /compute nodes/.
 
-### Access a compute node, interactively:
+### Access a compute node, interactively
 
 ```salloc --time=1:0:0 --ntasks=1 --account=def-glatard```
 
@@ -58,7 +58,7 @@ The prompt will tell you the name of the computer that was allocated to you [her
 ```[<username>@gra796 ~]$```
 
 
-### Access a compute node, in batch mode:
+### Access a compute node, in batch mode
 
 Create a script:
 
