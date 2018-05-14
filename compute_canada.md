@@ -41,9 +41,7 @@ Pick one general-purpose clusters:
 * `cedar.computecanada.ca`
 
 Connect using ssh:
-```
-ssh <username>@graham.computecanada.ca
-```
+`ssh <username>@graham.computecanada.ca`
 
 You are now connected to a login node, as the prompt shows:
 
@@ -51,9 +49,9 @@ You are now connected to a login node, as the prompt shows:
 
  This is a shared computer, which must be used only for lightweight 
  operations such as file transfers, job submissions, etc Data 
- processing or compilation must be done on worker nodes.
+ processing or compilation must be done on /worker nodes/.
 
-### Access a worker node [computer] interactively:
+### Access a worker node, interactively:
 
 `salloc --time=1:0:0 --ntasks=1 --account=def-glatard`
 
@@ -62,27 +60,19 @@ The prompt will tell you the name of the computer that was allocated to you [her
 `[<username>@gra796 ~]$`
 
 
-### Submit, monitor a batch [non-interactive] job:
+### Access a worker node, in batch mode:
 
 Create a script:
-```
-echo '#!/bin/bash' > script.sh ; echo echo Hello >> script.sh
-```
+`echo '#!/bin/bash' > script.sh ; echo echo Hello >> script.sh`
 
 Make it executable:
-```
-chmod 7555 ./script.sh
-```
+`chmod 7555 ./script.sh`
 
 Submit it!
-```
-sbatch --time=00:30:00 script.sh
-```
+`sbatch --time=00:30:00 script.sh`
 
 Monitor your job(s):
-```
-squeue -u <username>
-```
+`squeue -u <username>`
 
 Your job will write its output in your home folder:
 ```
