@@ -12,9 +12,7 @@ Image from [SMART Lab](https://github.com/SMART-Lab).
 * Register here: https://ccdb.computecanada.ca/security/login
 * Enter your user information. Use Tristan's CCRI: bwf-484-02
 
- To access the cloud, you will also have to fill in the form 
- [here](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account)
- with your CCDB username and email address.
+
 
 ### Where to get help?
 
@@ -116,9 +114,20 @@ and install all the dependencies in it with ```pip```.
 
 ## Clouds
 
-### What's a cloud?
+Compute Canada offers an Infrastructure-as-a-Service (IaaS) cloud, that 
+is, a way to start Virtual Machines with various base images. This is useful
+if you need to host Web services, or if you need a highly-customized software stack that
+cannot be deployed easily on a cluster.
 
-https://docs-dev.computecanada.ca/wiki/Cloud_Quick_Start
+### Account creation
 
-https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account/
+ Once you have a Compute Canada account, fill the form 
+ [here](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account)
+ with your CCDB username and email address. This will give you access to one of the Compute Canada clouds:
+ * `east.cloud.computecanada.ca`, or
+ * `west.cloud.computecanada.ca`
 
+### Starting VMs
+
+* Follow the manual at https://docs-dev.computecanada.ca/wiki/Cloud_Quick_Start
+* Don't forget to (1) create a key pair and (2) add port 22 to an Ingress rule if you want to ssh to your VM.
