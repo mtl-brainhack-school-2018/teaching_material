@@ -17,5 +17,25 @@
     "Webpage": "",
     "Social media": "",
     "Repository": "https://github.com/nooralsh/brainhackschool"
+  },
+   "Sebastian Urchs": {
+    "Where I'm from": "CRIUGM, Université de Montréal; MNI, McGill",
+    "What I do": "PhD student",
+    "What I want to learn at Brainhack": "javascript, interactive qc dashboards",
+    "Talk to Me About": "fMRI, python, visualization, github, ABIDE, ASD",
+    "Background": "Undergrad: Psych, MsC: Neuropsych, PhD, post-doc: hopefully",
+    "Webpage": "https://github.com/surchs",
+    "Social media": "twitter: @s_urchs",
+    "Repository": "https://github.com/mtl-brainhack-school-2018"
+  },
+  "Violaine Mongeau-Pérusse": {
+    "Where I'm from": "IUSMM, Université de Montréal",
+    "What I do": "PhD student",
+    "What I want to learn at Brainhack": "Preprocessing data with [Niak, fMRIprep, fcp-indi] Brain parcellations [C-PAC]",
+    "Talk to Me About": "Python, machine learning, psychiatry",
+    "Background": "Undergrad: Nursing, MsC: Industrial and mathematical engineering",
+    "Webpage": "https://github.com/violainemp",
+    "Social media": "twitter: @vio_mp",
+    "Repository": "https://github.com/mtl-brainhack-school-2018/violainemp"
   }
 }
