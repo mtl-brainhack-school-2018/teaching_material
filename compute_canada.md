@@ -83,7 +83,7 @@ $ cat slurm-4811758.out
 Hello
 ```
 
-### Transferring your data
+### Transfer your data
 
 The easiest way to transfer your files to/from clusters is through ```scp```, 
 a copy command that works over ```ssh```:
