@@ -2,17 +2,17 @@
 
 ## Intro
 
-### What's a cluster
+### What's a cluster?
 
 https://github.com/SMART-Lab/smartdispatch/wiki/How-To-Use-Compute-Canada-Clusters
 
-### What's a cloud
+### What's a cloud?
 
 
 ### Where to get help?
 
 * Email support: `support@computecanada.ca`
-* Wiki: (https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)[https://docs.computecanada.ca/wiki/Compute_Canada_Documentation]
+* Wiki: [https://docs.computecanada.ca/wiki/Compute_Canada_Documentation](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
 
 ### Getting an account
 
@@ -20,7 +20,7 @@ https://github.com/SMART-Lab/smartdispatch/wiki/How-To-Use-Compute-Canada-Cluste
 * Enter your user information. Use Tristan's CCRI: bwf-484-02
 
  To access the cloud, you will also have to fill in the form 
- (here)[https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account] 
+ [here](https://www.computecanada.ca/research-portal/national-services/compute-canada-cloud/create-a-cloud-account)
  with your CCDB username and email address.
 
 
@@ -28,11 +28,11 @@ https://github.com/SMART-Lab/smartdispatch/wiki/How-To-Use-Compute-Canada-Cluste
 
 ### Available clusters:
 
-(Cedar)[https://docs.computecanada.ca/wiki/Cedar], 
-(Graham)[https://docs.computecanada.ca/wiki/Graham], 
-(Niagara)[https://docs.computecanada.ca/wiki/Niagara].
+[Cedar](https://docs.computecanada.ca/wiki/Cedar), 
+[Graham](https://docs.computecanada.ca/wiki/Graham), 
+[Niagara](https://docs.computecanada.ca/wiki/Niagara).
 
-Cedar and Graham are general-purpose clusters. Niagara is specialized for parallel jobs (MPI).
+Cedar and Graham are general-purpose clusters. Niagara is specialized for parallel jobs
 
 ### Connect to a cluster
 
@@ -53,16 +53,16 @@ You are now connected to a login node, as the prompt shows:
  operations such as file transfers, job submissions, etc Data 
  processing or compilation must be done on worker nodes.
 
-### Access a worker node (computer) interactively:
+### Access a worker node [computer] interactively:
 
 `salloc --time=1:0:0 --ntasks=1 --account=def-glatard`
 
-The prompt will tell you the name of the computer that was allocated to you (here, `gra796`):
+The prompt will tell you the name of the computer that was allocated to you [here, `gra796`]:
 
 `[<username>@gra796 ~]$`
 
 
-### Submit, monitor a batch (non-interactive) job:
+### Submit, monitor a batch [non-interactive] job:
 
 Create a script:
 ```
@@ -114,7 +114,7 @@ You might want to install your own code on the cluster. Here are a few options:
 
 * Source code: Git clone your repository from GitHub on the cluster.
 * Python code: create a 
-(virtualenv)[https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python] 
+[virtualenv](https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python)
 and install all the dependencies in it with `pip`.
 * Linux binaries: copy them directly to the cluster.
 * C/C++: if your code needs to be recompiled, submit an interactive job and compile your code there.
