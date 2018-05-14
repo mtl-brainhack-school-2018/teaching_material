@@ -4,7 +4,7 @@
 
 ### What's a compute cluster?
 
-![cluster architecture](https://github.com/SMART-Lab/smartdispatch/raw/master/wiki/images/cluster_overview.png)
+[[https://github.com/SMART-Lab/smartdispatch/blob/master/wiki/images/cluster_overview.png|alt=Cluster Overview]]
 Image from [SMART Lab](https://github.com/SMART-Lab).
 
 ### Getting an account
@@ -26,11 +26,11 @@ Image from [SMART Lab](https://github.com/SMART-Lab).
 ### Available clusters
 
 General-purpose:
-* [Cedar](https://docs.computecanada.ca/wiki/Cedar), 
-* [Graham](https://docs.computecanada.ca/wiki/Graham), 
+* [Cedar](https://docs.computecanada.ca/wiki/Cedar)
+* [Graham](https://docs.computecanada.ca/wiki/Graham) 
 
 Specialized for parallel jobs:
-* [Niagara](https://docs.computecanada.ca/wiki/Niagara).
+* [Niagara](https://docs.computecanada.ca/wiki/Niagara)
 
 ### Connect to a cluster
 
