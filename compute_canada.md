@@ -2,12 +2,10 @@
 
 ## Intro
 
-### What's a cluster?
+### What's a compute cluster?
 
-https://github.com/SMART-Lab/smartdispatch/wiki/How-To-Use-Compute-Canada-Clusters
-
-### What's a cloud?
-
+![cluster architecture](https://github.com/SMART-Lab/smartdispatch/raw/master/wiki/images/cluster_overview.png)
+Image from [SMART Lab](https://github.com/SMART-Lab).
 
 ### Where to get help?
 
@@ -49,9 +47,9 @@ You are now connected to a login node, as the prompt shows:
 
  This is a shared computer, which must be used only for lightweight 
  operations such as file transfers, job submissions, etc Data 
- processing or compilation must be done on /worker nodes/.
+ processing or compilation must be done on /compute nodes/.
 
-### Access a worker node, interactively:
+### Access a compute node, interactively:
 
 ```salloc --time=1:0:0 --ntasks=1 --account=def-glatard```
 
@@ -60,7 +58,7 @@ The prompt will tell you the name of the computer that was allocated to you [her
 ```[<username>@gra796 ~]$```
 
 
-### Access a worker node, in batch mode:
+### Access a compute node, in batch mode:
 
 Create a script:
 
@@ -117,6 +115,8 @@ and install all the dependencies in it with ```pip```.
 
 
 ## Clouds
+
+### What's a cloud?
 
 https://docs-dev.computecanada.ca/wiki/Cloud_Quick_Start
 
