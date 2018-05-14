@@ -2,7 +2,7 @@
 
 ## Intro
 
-### What's a compute cluster?
+### What is a compute cluster?
 
 ![cluster architecture](https://github.com/SMART-Lab/smartdispatch/raw/master/wiki/images/cluster_overview.png)
 Image from [SMART Lab](https://github.com/SMART-Lab).
