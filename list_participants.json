@@ -8,4 +8,14 @@
     "Social media": "twitter: @pierre_bellec",
     "Repository": "https://github.com/mtl-brainhack-school-2018/brainsprite"
   },
+ "Arna Ghosh": {
+    "Where I'm from": "McConnell Engineering Building, McGill University",
+    "What I do": "MSc in Neuroscience, McGill University",
+    "What I want to learn at Brainhack": "Data analysis tools for handling neuroimaging data and applying deep learning to various neuroimaging datasets",
+    "Talk to Me About": "EEG, Deep Learning, Machine Learning, Image processing",
+    "Background": "Undergrad: Electrical Engg with thesis in Deep Learning for breast cancer detection from histopathology images",
+    "Webpage": "https://arnaghosh.github.io/",
+    "Social media": "",
+    "Repository": "https://github.com/arnaghosh"
+  },
 }
