@@ -4,7 +4,7 @@
 
 ### What's a compute cluster?
 
-[[https://github.com/SMART-Lab/smartdispatch/blob/master/wiki/images/cluster_overview.png|alt=Cluster Overview]]
+![cluster architecture](https://github.com/SMART-Lab/smartdispatch/raw/master/wiki/images/cluster_overview.png)
 Image from [SMART Lab](https://github.com/SMART-Lab).
 
 ### Getting an account
