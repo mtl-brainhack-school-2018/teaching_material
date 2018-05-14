@@ -63,22 +63,27 @@ The prompt will tell you the name of the computer that was allocated to you [her
 ### Access a worker node, in batch mode:
 
 Create a script:
+
 ```echo '#!/bin/bash' > script.sh ; echo echo Hello >> script.sh```
 
 Make it executable:
+
 ```chmod 7555 ./script.sh```
 
 Submit it!
+
 ```sbatch --time=00:30:00 script.sh```
 
 Monitor your job(s):
+
 ```squeue -u <username>```
 
 Your job will write its output in your home folder:
-`````````
+
+```
 $ cat slurm-4811758.out 
 Hello
-`````````
+```
 
 ### Transferring your data
 
