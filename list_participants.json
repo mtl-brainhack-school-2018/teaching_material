@@ -9,10 +9,10 @@
     "Repository": "https://github.com/mtl-brainhack-school-2018/brainsprite"
   },
    "Éloi Prévost" : {
-    "Where I'm from": "Université de Montréal (Neurosciences), CRIUGM"
-    "What I do": "Student in Neurosciences, Internship at CRIUGM with Dr Bellec"
-    "What I want to learn at Brainhack": "Run fMRIprep in Docker and Analyse Results"
-    "Talk to Me About":"fMRI preprocessing, Brain Anatomy, Physiology"
-    "email":"eloi.prevost@umontreal.ca"
+    "Where I'm from": "Université de Montréal (Neurosciences), CRIUGM",
+    "What I do": "Student in Neurosciences, Internship at CRIUGM with Dr Bellec",
+    "What I want to learn at Brainhack": "Run fMRIprep in Docker and Analyse Results",
+    "Talk to Me About":"fMRI preprocessing, Brain Anatomy, Physiology",
+    "email":"eloi.prevost@umontreal.ca",
   },
 }
