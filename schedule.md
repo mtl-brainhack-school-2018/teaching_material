@@ -12,6 +12,13 @@
   * *pitch*: LORIS, TOSI, CONP, datalad (Samir Das)
   * *tutorial*: conda and notebooks (Sebastian Urchs)
 
+### PM Catch
+
+  * Noor Sharif https://github.com/mtl-brainhack-school-2018/nooralsh
+  * Sylvie Rheault https://github.com/mtl-brainhack-school-2018/rheauls
+  * Violaine Mongeau-Perusse https://github.com/mtl-brainhack-school-2018/rheauls
+  * Agah Karakuzu https://github.com/mtl-brainhack-school-2018/agahkarakuzu
+  
 ## Tuesday, May 15th
 
 ### AM
@@ -28,3 +35,9 @@
  * *pitch*: BIDS (Tal Yarkoni)
  * *pitch*: NeuroVauld (Tal Yarkoni)
  * *optional tutorial*: git pull request (Elizabeth M Dupre)
+
+## Wednesday, May 16th
+
+### AM
+
+ *
