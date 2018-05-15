@@ -35,10 +35,8 @@
  * *optional tutorial*: git pull request (Elizabeth M Dupre)
 
 ## 4-5 pm
- * TBD
- * TBD
- * TBD
- * TBD
+ * Uku
+ * Francisco
 
 ## Wednesday, May 16th
 
@@ -60,6 +58,25 @@
 
 ### 4-5 pm
   * Christina Tremblay https://github.com/mtl-brainhack-school-2018/christi
+  
+## Thursday, May 17th
+
+### 9-10 am
+
+ * *pitch*: Deep learning and keras (Andrew Doyle)
+ * *pitch*: Clustering / component analysis (Jake Vogel)
+ * *pitch*: scikit-learn (Angela Tam)
+
+### 1-2 pm
+
+ * seminar - Tal Yarkoni "Topographic principles of macroscale cortical connectivity"
+
+### 2-3 pm
+ * *pitch*: structural MRI processing (Mallar Chakravarty)
+ * *pitch*: the MaGeT MRI brain segmentation pipeline (Mallar Chakravarty)
+ * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
+
+### 4-5 pm
   * TBD
   * TBD
   * TBD
