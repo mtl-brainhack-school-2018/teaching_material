@@ -59,7 +59,7 @@
  * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
 
 ### 4-5 pm
-  * TBD
+  * Christina Tremblay https://github.com/mtl-brainhack-school-2018/christi
   * TBD
   * TBD
   * TBD
