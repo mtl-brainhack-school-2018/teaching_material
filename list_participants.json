@@ -8,6 +8,9 @@
     "Social media": "twitter: @pierre_bellec",
     "Repository": "https://github.com/mtl-brainhack-school-2018/brainsprite"
   },
+  "Elizabeth DuPre": {
+    "Where I'm from": "MNI",
+  },
    "Cecile Madjar": {
     "Where I'm from": "MCIN, Montreal Neurological Institute, McGill University",
     "What I do": "Database and imaging developer for the LORIS team at MCIN",
@@ -94,6 +97,4 @@
     "Background": "Undergrad: physic, MsC: neurobiology, electrophysiology, PhD:brain stimulation, language and cognition, Parkinson's disease, post-doc: TMS, EMG, decision making",
     "Repository":"https://github.com/mtl-brainhack-school-2018/"
   },
-
-
 }
