@@ -84,7 +84,7 @@
   * TBD
   * TBD
 
-## Thursday, May 17th
+## Friday, May 18th
 
 ### 9-10 am
 
@@ -98,7 +98,7 @@
  * *pitch*: Binder and blog demos (Nikola Stikov)  + graph & regression (BM)
  * *pitch*: figshare/zenodo (Pierre Bellec)
  * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
- 
+
 ### 4-5 pm
   * TBD
   * TBD
