@@ -17,5 +17,102 @@
     "Webpage": "",
     "Social media",
     "Repository": "https://github.com/llevitis/DeepQC",
-  }
+  },
+  "Elizabeth DuPre": {
+    "Where I'm from": "MNI",
+  },
+   "Cecile Madjar": {
+    "Where I'm from": "MCIN, Montreal Neurological Institute, McGill University",
+    "What I do": "Database and imaging developer for the LORIS team at MCIN",
+    "What I want to learn at Brainhack": "javascript, front-end technologies",
+    "Talk to Me About": "relational database, LORIS, neuroimaging, Alzheimer's disease",
+    "Background": "Undergrad: biology, MsC: statistics and informatic applied to biology",
+    "Social media": "slack: @cmadjar"
+  },
+ "Arna Ghosh": {
+    "Where I'm from": "McConnell Engineering Building, McGill University",
+    "What I do": "MSc in Neuroscience, McGill University",
+    "What I want to learn at Brainhack": "Data analysis tools for handling neuroimaging data and applying deep learning to various neuroimaging datasets",
+    "Talk to Me About": "EEG, Deep Learning, Machine Learning, Image processing",
+    "Background": "Undergrad: Electrical Engg with thesis in Deep Learning for breast cancer detection from histopathology images",
+    "Webpage": "https://arnaghosh.github.io/",
+    "Social media": "",
+    "Repository": "https://github.com/arnaghosh"
+   },
+ "Noor Al-Sharif": {
+    "Where I'm from": "MNI, McGill University",
+    "What I do": "PhD student in Integrated Program in Neuroscience, with Alans Evans, studying structural connectivity + cognitive development",
+    "What I want to learn at Brainhack": "how to process + analyse fMRI",
+    "Talk to Me About": "fMRI, DWI, neurodevelopment, structural connectivity",
+    "Background": "BSc: Neuroscience, RA: Structural image processing, PhD: in progress (I think)",
+    "Webpage": "",
+    "Social media": "",
+    "Repository": "https://github.com/mtl-brainhack-school-2018/nooralsh"
+  },
+   "Sebastian Urchs": {
+    "Where I'm from": "CRIUGM, Université de Montréal; MNI, McGill",
+    "What I do": "PhD student",
+    "What I want to learn at Brainhack": "javascript, interactive qc dashboards",
+    "Talk to Me About": "fMRI, python, visualization, github, ABIDE, ASD",
+    "Background": "Undergrad: Psych, MsC: Neuropsych, PhD, post-doc: hopefully",
+    "Webpage": "https://github.com/surchs",
+    "Social media": "twitter: @s_urchs",
+    "Repository": "https://github.com/mtl-brainhack-school-2018"
+  },
+ "Francisco Perdigon Romero": {
+    "Where I'm from": "Neuropoly, Polytechnique de Montréal",
+    "What I do": "PhD student and Researcher, Biomedical department",
+    "What I want to learn at Brainhack": "neuroimaging stuff, documentation, community building",
+    "Talk to Me About": "deep learning, machine learning, MRI, ECG, spinal intervertebral disk segmentation detection and labeling, spinal vertebras segmentation detection and labeling",
+    "Background": "Undergrad: Telecommunication and Electronic Engineer, MsC: Biomedical image processing / machine learning / deep learning, biomedical signal processing / denoising",
+    "Webpage": "https://www.neuro.polymtl.ca/home",
+    "Social media": "facebook: https://www.facebook.com/francisco.perdigonromero",
+    "Repository": "https://github.com/fperdigon"
+    }, 
+   "Samuel Guay": {
+    "Where I'm from": "Hôpital du Sacré-Coeur de Montréal (HSCM), Université de Montréal",
+    "What I do": "First-year Master student longitudinally investigating long-term effects of sports-related concussions in former athletes",
+    "What I want to learn at Brainhack": "Familiarize myself with the open science framework/workflow; Learn how to build/use a Docker/Singularity image and to use it on Compute Canada ressources properly",
+    "Talk to Me About": "Traumatic Brain Injuries (TBI)/Sports-related concussions, clinical neuropsyc, cognitive psychology/eeg",
+    "Background": "Skateboarding; Undergrad: Psychology",
+    "Webpage": "Trying to setup www.samuelguay.me using GitHub pages during my spare time (= never)",
+    "Social media": "Twitter: @SamGuay_ | Slack: @SamGuay",
+    "Repository": "https://github.com/SamGuay/mtl_brainhack_school_project"
+  },
+  "Violaine Mongeau-Pérusse": {
+    "Where I'm from": "IUSMM, Université de Montréal",
+    "What I do": "PhD student",
+    "What I want to learn at Brainhack": "Preprocessing data with [Niak, fMRIprep, fcp-indi] Brain parcellations [C-PAC]",
+    "Talk to Me About": "Python, machine learning, psychiatry",
+    "Background": "Undergrad: Nursing, MsC: Industrial and mathematical engineering",
+    "Webpage": "https://github.com/violainemp",
+    "Social media": "twitter: @vio_mp",
+    "Repository": "https://github.com/mtl-brainhack-school-2018/violainemp"
+  },
+ "Agah Karakuzu": {
+    "Where I'm from": "Neuropoly, Polytechnique Montréal",
+    "What I do": "PhD student, open science enthusiast",
+    "What I want to learn at Brainhack": "dockerizing MATLAB based projects, boutiques, PSOM, cbrain, BIDS apps",
+    "Talk to Me About": "quantitative MRI, open science, cool vis tools, coffee",
+    "Background": "BME",
+    "Webpage": "https://sites.google.com/view/agah/home",
+    "Social media": "twitter: @agahkarakuzu",
+    "Repository": "https://github.com/mtl-brainhack-school-2018/agahkarakuzu"
+    },
+ "Christina Tremblay": {
+    "Where I'm from": "MNI, McGill University",
+    "What I do": "Postgraduate associate, department of neurology and neurosurgery",
+    "What I want to learn at Brainhack": "MRI analysis,MRI statistic analysis, documentation, community building",
+    "Talk to Me About": "fMRI, pipelines, DBM analysis, VBM analysis, statistic: MRI group analysis",
+    "Background": "Undergrad: physic, MsC: neurobiology, electrophysiology, PhD:brain stimulation, language and cognition, Parkinson's disease, post-doc: TMS, EMG, decision making",
+    "Repository":"https://github.com/mtl-brainhack-school-2018/"
+  },
+ "Sylvie Rheault": {
+     "Where I<m from": "CRIUGM, Universite de Montreal",
+     "What I do": "PhD student, Neurosciences department",
+     "What I want to learn at Brainhack": "sharing with a team, practice python, try machine learning on simple examples",
+     "Talk to Me About": "Alzheimer's disease, Dementia, Brain vascular changes, ...",
+     "Backgroud": "Bacc ENG, MScA ENG, MD, Family doctor for 10 years in geriatrics",
+     "Repository":"htpps://github.com/mtl-brainhack-school-2018/rheauls"
+ },
 }
