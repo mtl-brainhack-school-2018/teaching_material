@@ -58,7 +58,10 @@
 
 ### 4-5 pm
   * Christina Tremblay https://github.com/mtl-brainhack-school-2018/christi
-  
+
+### 5-8 pm
+  * open science beer and chinese (?) dinner
+
 ## Thursday, May 17th
 
 ### 9-10 am
@@ -74,11 +77,29 @@
 ### 2-3 pm
  * *pitch*: structural MRI processing (Mallar Chakravarty)
  * *pitch*: the MaGeT MRI brain segmentation pipeline (Mallar Chakravarty)
- * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
+ * *pitch*: Neurovault (Tal Yarkoni)
 
 ### 4-5 pm
   * TBD
   * TBD
   * TBD
 
- *
+## Thursday, May 17th
+
+### 9-10 am
+
+ * *pitch*: M/EEG processing (Karim Jerbi) +  + OMEGA (KJ?)
+ * *pitch*: MNE (Anne-Lise)
+ * *pitch*: OMEGA (Karim Jerbi)
+
+
+### 1-2 pm
+
+ * *pitch*: Binder and blog demos (Nikola Stikov)  + graph & regression (BM)
+ * *pitch*: figshare/zenodo (Pierre Bellec)
+ * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
+ 
+### 4-5 pm
+  * TBD
+  * TBD
+  * TBD
