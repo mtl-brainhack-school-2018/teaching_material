@@ -17,6 +17,13 @@
     "Social media": "twitter: @ukuv",
     "Repository": "https://github.com/ukuvainik/"
   },
+   "Éloi Prévost" : {
+    "Where I'm from": "Université de Montréal (Neurosciences), CRIUGM",
+    "What I do": "Student in Neurosciences, Internship at CRIUGM with Dr Bellec",
+    "What I want to learn at Brainhack": "Run fMRIprep in Docker and Analyse Results",
+    "Talk to Me About":"fMRI preprocessing, Brain Anatomy, Physiology",
+    "email":"eloi.prevost@umontreal.ca",
+  },
   "Gabriel Desrosiers": {
      "Where I'm from": "Douglas institute, McGill University",
      "What I do": "Student, Integrated Program in Neuroscience (IPN)",
