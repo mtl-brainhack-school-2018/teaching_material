@@ -16,7 +16,7 @@
 
   * Noor Sharif https://github.com/mtl-brainhack-school-2018/nooralsh
   * Sylvie Rheault https://github.com/mtl-brainhack-school-2018/rheauls
-  * Violaine Mongeau-Perusse https://github.com/mtl-brainhack-school-2018/rheauls
+  * Violaine Mongeau-Perusse https://github.com/mtl-brainhack-school-2018/violainemp
   * Agah Karakuzu https://github.com/mtl-brainhack-school-2018/agahkarakuzu
 
 ## Tuesday, May 15th
