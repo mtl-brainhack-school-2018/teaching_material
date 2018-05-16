@@ -71,7 +71,7 @@
 
  * *pitch*: Deep learning and keras (Andrew Doyle)
  * *pitch*: Clustering / component analysis (Jake Vogel)
- * *pitch*: scikit-learn (Angela Tam)
+ * *pitch*: scikit-learn & pandas (Angela Tam)
 
 ### 1-2 pm
 
