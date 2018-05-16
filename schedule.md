@@ -59,6 +59,7 @@
 ### 4-5 pm
   * Christina Tremblay https://github.com/mtl-brainhack-school-2018/christi
   * Samuel Guay https://github.com/mtl-brainhack-school-2018/samguay
+  * Éloi Prévost https://github.com/mtl-brainhack-school-2018/Eloi_Prevost
 
 
 ### 5-8 pm
