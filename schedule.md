@@ -49,7 +49,7 @@
 
 ### 1-2 pm
 
- * seminar - Daniel Margulies "Topographic principles of macroscale cortical connectivity"
+ * seminar - Daniel Margulies __"Topographic principles of macroscale cortical connectivity"__
 
 ### 2-3 pm
  * *pitch*: structural MRI processing (Mallar Chakravarty)
@@ -58,6 +58,8 @@
 
 ### 4-5 pm
   * Christina Tremblay https://github.com/mtl-brainhack-school-2018/christi
+  * Samuel Guay https://github.com/mtl-brainhack-school-2018/samguay
+
 
 ### 5-8 pm
   * open science beer and chinese (?) dinner
@@ -72,7 +74,7 @@
 
 ### 1-2 pm
 
- * seminar - Tal Yarkoni "Topographic principles of macroscale cortical connectivity"
+ * seminar - Tal Yarkoni __"How to survive and thrive as an open scientist"__
 
 ### 2-3 pm
  * *pitch*: structural MRI processing (Mallar Chakravarty)
