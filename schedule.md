@@ -81,7 +81,8 @@
  * *pitch*: structural MRI processing (Mallar Chakravarty)
  * *pitch*: the MaGeT MRI brain segmentation pipeline (Mallar Chakravarty)
  * *pitch*: Neurovault (Tal Yarkoni)
-
+ * *pitch*: pliers (Tal Yarkoni)
+ 
 ### 4-5 pm
   * TBD
   * TBD
@@ -94,6 +95,7 @@
  * *pitch*: M/EEG processing (Karim Jerbi) +  + OMEGA (KJ?)
  * *pitch*: MNE (Anne-Lise)
  * *pitch*: OMEGA (Karim Jerbi)
+ 
 
 
 ### 1-2 pm
