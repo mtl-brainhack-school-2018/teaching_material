@@ -42,6 +42,15 @@
     "Background": "BSc: biomedical sciences, MSc: immunology, BA: psychology, PhD: neuropsychology"
     "Repository": "https://github.com/Louis-Simon91/brainhack-school"
   },
+   "Liza Levitis": {
+    "Where I'm from": "MCIN, MNI",
+    "What I do": "MSc student in the IPN, McGill",
+    "What I want to learn about at Brainhack": "neuroimaging analysis, machine learning",
+    "Talk to Me About": "Alzheimer's disease, machine learning, neuroinformatics (LORIS)",
+    "Background": "Undergrad: cognitive science, LORIS software developer",
+    "Social media": "slack @llevitis",
+    "Repository": "https://github.com/llevitis/DeepQC",
+  },
   "Elizabeth DuPre": {
     "Where I'm from": "MNI",
   },
