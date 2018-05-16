@@ -35,7 +35,7 @@
  * *optional tutorial*: git pull request (Elizabeth M Dupre)
 
 ## 4-5 pm
- * Uku
+ * Uku Vainik https://github.com/mtl-brainhack-school-2018/ukuvainik
  * Francisco
 
 ## Wednesday, May 16th
