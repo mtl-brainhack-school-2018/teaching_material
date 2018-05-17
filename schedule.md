@@ -84,8 +84,9 @@
  
 ### 4-5 pm
   * Gabriel Desrosiers-Gregoire https://github.com/mtl-brainhack-school-2018/Gabriel_D-G
-  * TBD
-  * TBD
+  * Liza
+  * Vincente
+  * AmanPreet Badhwar
 
 ## Friday, May 18th
 
