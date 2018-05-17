@@ -84,7 +84,7 @@
  * *pitch*: pliers (Tal Yarkoni)
  
 ### 4-5 pm
-  * TBD
+  * Gabriel Desrosiers-Gregoire https://github.com/mtl-brainhack-school-2018/Gabriel_D-G
   * TBD
   * TBD
 
