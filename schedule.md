@@ -78,8 +78,7 @@
  * seminar - Tal Yarkoni __"How to survive and thrive as an open scientist"__
 
 ### 2-3 pm
- * *pitch*: structural MRI processing (Mallar Chakravarty)
- * *pitch*: the MaGeT MRI brain segmentation pipeline (Mallar Chakravarty)
+ * *pitch*: nilearn (Jake Vogel)
  * *pitch*: Neurovault (Tal Yarkoni)
  * *pitch*: pliers (Tal Yarkoni)
  
