@@ -84,7 +84,7 @@
  
 ### 4-5 pm
   * Gabriel Desrosiers-Gregoire https://github.com/mtl-brainhack-school-2018/Gabriel_D-G
-  * Liza
+  * Liza 
   * Vincente
   * AmanPreet Badhwar
 
@@ -105,6 +105,7 @@
  * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
 
 ### 4-5 pm
-  * TBD
-  * TBD
-  * TBD
+  * Louis-Simon https://github.com/mtl-brainhack-school-2018/louissimon
+  * Arna Gosh 
+  * Tommy 
+  * Marie 
