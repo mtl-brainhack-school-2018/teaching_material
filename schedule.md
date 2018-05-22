@@ -125,7 +125,7 @@
  
 ### 3-4 pm
   * *Catch session*
-    * Amal
+    * Amal: https://docs.google.com/presentation/d/1oWZx0adj5hw725Fs8_mRohrJexZnaMgLBMglBGImTWw/edit#slide=id.g3ab182f317_4_117
     * Guido
     * Kamaran
 
