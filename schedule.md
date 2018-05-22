@@ -156,6 +156,10 @@
 
  *wrap-up session*
 
+### 5-8 pm
+  
+  *Open science beer - [McCarold](https://github.com/SIMEXP/niak.git)*
+
 ## Friday, May 25th
  
 ### 9-10 am
