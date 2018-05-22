@@ -118,7 +118,7 @@
 
  *Collab* 
  
-### 3:30-4:30 pm
+### 3-4 pm
   * *Catch session*
     * Amal
     * Guido
