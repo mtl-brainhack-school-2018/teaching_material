@@ -96,8 +96,6 @@
  * *pitch*: MNE (Anne-Lise)
  * *pitch*: OMEGA (Karim Jerbi)
  
-
-
 ### 1-2 pm
 
  * *pitch*: Binder and blog demos (Nikola Stikov)  + graph & regression (BM)
@@ -109,3 +107,65 @@
   * Arna Gosh 
   * Tommy 
   * Marie 
+  
+## Tuesday, May 22nd
+
+### 11-12 am
+
+ *Planning session*: collab and tutorials
+
+### 1-2 pm
+
+ *Collab* 
+ 
+### 3:30-4:30 pm
+  * *Catch session*
+    * Amal
+    * Guido
+    * Kamaran
+
+## Wednesday, May 23nd
+
+### 10-11 am
+
+ *Tutorial*: datalad (JB Poline)
+ 
+### 1-2 pm
+
+ *Tutorial*: Loris (Cécile Madjar and Samir Das)
+
+### 2-3 pm
+
+ *collab*
+ 
+### 4-5 pm
+
+ *wrap-up session*
+ 
+## Thursday, May 24th
+ 
+### 1-2 pm
+
+ *Seminar*: Erin W Dickie
+
+### 2-3 pm
+
+ *collab*
+ 
+### 4-5 pm
+
+ *wrap-up session*
+
+## Friday, May 25th
+ 
+### 9-10 am
+
+ *tutorial*: ciftify (Erin W Dickie)
+
+### 1-2 pm
+
+ *collab*
+ 
+### 4-5 pm
+
+ *wrap-up session*
