@@ -175,6 +175,12 @@
 
  *collab*
  
+ - Plotly tutorial (@surchs). Requirements:
+   - plotly installed (e.g. through [conda](https://www.anaconda.com/download/))
+   - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
+   - [created a plotly account](https://plot.ly/accounts/login/?action=signup#/)
+   - some experience with matplotlib helps but we can cover the basics
+ 
 ### 4-5 pm
 
  *wrap-up session*
