@@ -110,13 +110,17 @@
   
 ## Tuesday, May 22nd
 
+### 9-11 am
+
+ *Open hacking* 
+ 
 ### 11-12 am
 
  *Planning session*: collab and tutorials
 
-### 1-2 pm
+### 1-3 pm
 
- *Collab* 
+ *Open hacking* 
  
 ### 3-4 pm
   * *Catch session*
