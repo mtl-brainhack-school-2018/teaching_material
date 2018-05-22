@@ -121,6 +121,7 @@
 ### 1-3 pm
 
  *Open hacking* 
+ * *tutorial*: pandas (Angela Tam)
  
 ### 3-4 pm
   * *Catch session*
