@@ -180,7 +180,7 @@
 
 ### 9-10 am
 
- - Tutorial*: ciftify (Erin W Dickie)
+ - *Tutorial*: ciftify (Erin W Dickie)
 
 ### 10-11am
 
