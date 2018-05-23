@@ -133,12 +133,12 @@
 
 ### 10-11 am
 
-  *Tutorial*: Datalad (10am, JB Poline)   
-  *Tutorial*: Scikit-Learn (10:30am, J Vogel)
+  - *Tutorial*: Datalad (10am, JB Poline)   
+  - *Tutorial*: Scikit-Learn (10:30am, J Vogel)
 
 ### 1-2 pm
 
- *Tutorial*: Loris (1pm, Cécile Madjar and Samir Das)
+ - *Tutorial*: Loris (1pm, Cécile Madjar and Samir Das)
 
 ### 2-3 pm
 
@@ -153,20 +153,20 @@
 
 ### 10-11a
 
-*Tutorial*: FMRIPrep (10:30am, Elizabeth DuPre)
+- *Tutorial*: FMRIPrep (10:30am, Elizabeth DuPre)
 
 ### 11a-12p
 
-*Tutorial*: Nipype (11am, Elizabeth DuPre)
+- *Tutorial*: Nipype (11am, Elizabeth DuPre)
 
 ### 1-2 pm
 
- *Seminar*: Erin W Dickie
+ - *Seminar*: Erin W Dickie
 
 ### 2-3 pm
 
  *collab*   
- *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+ - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
 
 ### 4-5 pm
 
@@ -180,16 +180,16 @@
 
 ### 9-10 am
 
- *Tutorial*: ciftify (Erin W Dickie)
+ - Tutorial*: ciftify (Erin W Dickie)
 
- ### 10-11am
+### 10-11am
 
- *Tutorial*: NiLearn (10:30am, J Vogel)
+ - *Tutorial*: NiLearn (10:30am, J Vogel)
 
 ### 1-2 pm
 
  *collab*   
- *Tutorial*: plotly (1pm, @surchs).
+ - *Tutorial*: plotly (1pm, @surchs)   
  Requirements:
    - plotly installed (e.g. through [conda](https://www.anaconda.com/download/))
    - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
