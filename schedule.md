@@ -133,8 +133,8 @@
 
 ### 10-11 am
 
- *Tutorial*: Datalad (10am, JB Poline)
- *Tutorial*: Scikit-Learn (10:30am, J Vogel)
+  *Tutorial*: Datalad (10am, JB Poline)   
+  *Tutorial*: Scikit-Learn (10:30am, J Vogel)
 
 ### 1-2 pm
 
@@ -165,7 +165,7 @@
 
 ### 2-3 pm
 
- *collab*
+ *collab*   
  *Tutorial*: Compute Canada (2pm, Tristan Glatard)
 
 ### 4-5 pm
@@ -188,8 +188,7 @@
 
 ### 1-2 pm
 
- *collab*
-
+ *collab*   
  *Tutorial*: plotly (1pm, @surchs).
  Requirements:
    - plotly installed (e.g. through [conda](https://www.anaconda.com/download/))
