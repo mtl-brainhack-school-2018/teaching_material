@@ -126,7 +126,6 @@
 ### 3-4 pm
   * *Catch session*
     * Amal: https://docs.google.com/presentation/d/1oWZx0adj5hw725Fs8_mRohrJexZnaMgLBMglBGImTWw/edit#slide=id.g3ab182f317_4_117
-    * Guido
     * Kamran
 
 ## Wednesday, May 23nd
@@ -145,7 +144,9 @@
  *collab*
 
 ### 4-5 pm
-
+ * *Catch session*
+   * Guido
+   
  *wrap-up session*
 
 
@@ -165,8 +166,16 @@
 
 ### 2-3 pm
 
+<<<<<<< HEAD
  *collab*   
  - *Tutorial*: Compute Canada (3pm, Tristan Glatard)
+=======
+ - *collab*   
+ - *Tutorial*: NIAK (fMRI preprocessing, connectome generation, Pierre Bellec)
+
+### 3-4 pm
+ - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+>>>>>>> 70d9e539c193f9602cdac4f4b952c21e5c581be9
 
 ### 4-5 pm
 
