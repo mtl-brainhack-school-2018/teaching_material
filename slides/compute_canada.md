@@ -111,6 +111,10 @@ and install all the dependencies in it with ```pip```.
 * C/C++: if your code needs to be recompiled, submit an interactive job and compile your code there.
 * Install your code in a Singularity container and run it on the cluster (```module load singularity```).
 
+### Other topics
+* Getting Started Guide: https://docs.computecanada.ca/wiki/Getting_Started_with_the_new_National_Systems
+* File systems: https://www.youtube.com/watch?v=66_WGFpjwew
+
 
 ## Clouds
 
