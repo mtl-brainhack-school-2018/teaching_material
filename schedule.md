@@ -81,10 +81,10 @@
  * *pitch*: nilearn (Jake Vogel)
  * *pitch*: Neurovault (Tal Yarkoni)
  * *pitch*: pliers (Tal Yarkoni)
- 
+
 ### 4-5 pm
   * Gabriel Desrosiers-Gregoire https://github.com/mtl-brainhack-school-2018/Gabriel_D-G
-  * Liza 
+  * Liza
   * Vincente
   * AmanPreet Badhwar
 
@@ -95,7 +95,7 @@
  * *pitch*: M/EEG processing (Karim Jerbi) +  + OMEGA (KJ?)
  * *pitch*: MNE (Anne-Lise)
  * *pitch*: OMEGA (Karim Jerbi)
- 
+
 ### 1-2 pm
 
  * *pitch*: Binder and blog demos (Nikola Stikov)  + graph & regression (BM)
@@ -104,59 +104,61 @@
 
 ### 4-5 pm
   * Louis-Simon https://github.com/mtl-brainhack-school-2018/louissimon
-  * Arna Gosh 
-  * Tommy 
-  * Marie 
-  
+  * Arna Gosh
+  * Tommy
+  * Marie
+
 ## Tuesday, May 22nd
 
 ### 9-11 am
 
- *Open hacking* 
- 
+ *Open hacking*
+
 ### 11-12 am
 
  *Planning session*: collab and tutorials
 
 ### 1-3 pm
 
- *Open hacking* 
- * *tutorial*: pandas (Angela Tam)
- 
+ *Open hacking*
+ * *tutorial*: Pandas (1pm, Angela Tam)
+
 ### 3-4 pm
   * *Catch session*
     * Amal: https://docs.google.com/presentation/d/1oWZx0adj5hw725Fs8_mRohrJexZnaMgLBMglBGImTWw/edit#slide=id.g3ab182f317_4_117
     * Guido
-    * Kamaran
+    * Kamran
 
 ## Wednesday, May 23nd
 
 ### 10-11 am
 
- *Tutorial*: datalad (JB Poline)
- 
+ *Tutorial*: Datalad (10am, JB Poline)
+ *Tutorial*: Scikit-Learn (10:30am, J Vogel)
+
 ### 1-2 pm
 
- *Tutorial*: Loris (Cécile Madjar and Samir Das)
+ *Tutorial*: Loris (1pm, Cécile Madjar and Samir Das)
 
 ### 2-3 pm
 
  *collab*
- 
+
 ### 4-5 pm
 
  *wrap-up session*
- 
+
+
 ## Thursday, May 24th
 
 ### 10-11a
 
-*Tutorial*: FMRIPrep (Elizabeth DuPre)
+*Tutorial*: FMRIPrep (10:30am, Elizabeth DuPre)
 
 ### 11a-12p
 
-*Tutorial*: Nipype (Elizabeth DuPre)
- 
+*Tutorial*: Nipype (11am, Elizabeth DuPre)
+
 ### 1-2 pm
 
  *Seminar*: Erin W Dickie
@@ -164,31 +166,37 @@
 ### 2-3 pm
 
  *collab*
- 
+ *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+
 ### 4-5 pm
 
  *wrap-up session*
 
-### 5-8 pm
-  
+### 5-7 pm
+
   *Open science beer - [McCarold](https://github.com/SIMEXP/niak.git)*
 
 ## Friday, May 25th
- 
+
 ### 9-10 am
 
- *tutorial*: ciftify (Erin W Dickie)
+ *Tutorial*: ciftify (Erin W Dickie)
+
+ ### 10-11am
+
+ *Tutorial*: NiLearn (10:30am, J Vogel)
 
 ### 1-2 pm
 
  *collab*
- 
- - Plotly tutorial (@surchs). Requirements:
+
+ *Tutorial*: plotly (1pm, @surchs).
+ Requirements:
    - plotly installed (e.g. through [conda](https://www.anaconda.com/download/))
    - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
    - [created a plotly account](https://plot.ly/accounts/login/?action=signup#/)
    - some experience with matplotlib helps but we can cover the basics
- 
+
 ### 4-5 pm
 
  *wrap-up session*
