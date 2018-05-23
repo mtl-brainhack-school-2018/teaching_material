@@ -146,7 +146,7 @@
 ### 4-5 pm
  * *Catch session*
    * Guido
-   
+
  *wrap-up session*
 
 
@@ -166,16 +166,11 @@
 
 ### 2-3 pm
 
-<<<<<<< HEAD
- *collab*   
- - *Tutorial*: Compute Canada (3pm, Tristan Glatard)
-=======
- - *collab*   
- - *Tutorial*: NIAK (fMRI preprocessing, connectome generation, Pierre Bellec)
+- *Tutorial*: NIAK - fMRI preprocessing, connectome generation (2pm, Pierre Bellec)
 
 ### 3-4 pm
- - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
->>>>>>> 70d9e539c193f9602cdac4f4b952c21e5c581be9
+  
+ - *Tutorial*: Compute Canada (3pm, Tristan Glatard)  
 
 ### 4-5 pm
 
