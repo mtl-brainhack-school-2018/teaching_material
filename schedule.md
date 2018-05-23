@@ -121,7 +121,7 @@
 ### 1-3 pm
 
  *Open hacking*
- * *tutorial*: Pandas (1pm, Angela Tam)
+ - *Tutorial*: Pandas (1pm, Angela Tam)
 
 ### 3-4 pm
   * *Catch session*
@@ -153,7 +153,7 @@
 
 ### 10-11a
 
-- *Tutorial*: FMRIPrep (10:30am, Elizabeth DuPre)
+- *Tutorial*: FMRIPrep (10am, Elizabeth DuPre)
 
 ### 11a-12p
 
@@ -166,7 +166,7 @@
 ### 2-3 pm
 
  *collab*   
- - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+ - *Tutorial*: Compute Canada (3pm, Tristan Glatard)
 
 ### 4-5 pm
 
@@ -180,7 +180,7 @@
 
 ### 9-10 am
 
- - Tutorial*: ciftify (Erin W Dickie)
+ - *Tutorial*: ciftify (Erin W Dickie)
 
 ### 10-11am
 
@@ -195,6 +195,10 @@
    - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
    - [created a plotly account](https://plot.ly/accounts/login/?action=signup#/)
    - some experience with matplotlib helps but we can cover the basics
+
+### 2-3pm
+
+ - *Tutorial*: Keras (2pm, A Doyle)
 
 ### 4-5 pm
 
