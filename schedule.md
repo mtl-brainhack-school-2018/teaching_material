@@ -148,6 +148,14 @@
  *wrap-up session*
  
 ## Thursday, May 24th
+
+### 10-11a
+
+*Tutorial*: FMRIPrep (Elizabeth DuPre)
+
+### 11a-12p
+
+*Tutorial*: Nipype (Elizabeth DuPre)
  
 ### 1-2 pm
 
