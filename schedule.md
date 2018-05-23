@@ -165,11 +165,11 @@
 
 ### 2-3 pm
 
- *collab*   
- - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+ - *collab*   
+ - *Tutorial*: NIAK (fMRI preprocessing, connectome generation, Pierre Bellec)
 
 ### 3-4 pm
- - *Tutorial*: NIAK (fMRI preprocessing, connectome generation, Pierre Bellec)
+ - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
 
 ### 4-5 pm
 
