@@ -207,3 +207,14 @@
 ### 4-5 pm
 
  *wrap-up session*
+ 
+## Monday, May 24th 2018
+
+### 1-2 pm
+
+ *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
+ 
+### 4-5 pm
+
+ *wrap-up session*
+
