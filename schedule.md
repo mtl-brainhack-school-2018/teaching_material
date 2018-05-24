@@ -210,7 +210,7 @@
  
 ## Monday, May 24th 2018
 
-### 1-2 pm
+### 11-12 am
 
  *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
  
