@@ -121,12 +121,11 @@
 ### 1-3 pm
 
  *Open hacking*
- * *tutorial*: Pandas (1pm, Angela Tam)
+ - *Tutorial*: Pandas (1pm, Angela Tam)
 
 ### 3-4 pm
   * *Catch session*
     * Amal: https://docs.google.com/presentation/d/1oWZx0adj5hw725Fs8_mRohrJexZnaMgLBMglBGImTWw/edit#slide=id.g3ab182f317_4_117
-    * Guido
     * Kamran
 
 ## Wednesday, May 23nd
@@ -145,6 +144,8 @@
  *collab*
 
 ### 4-5 pm
+ * *Catch session*
+   * Guido
 
  *wrap-up session*
 
@@ -153,7 +154,7 @@
 
 ### 10-11a
 
-- *Tutorial*: FMRIPrep (10:30am, Elizabeth DuPre)
+- *Tutorial*: FMRIPrep (10am, Elizabeth DuPre)
 
 ### 11a-12p
 
@@ -165,8 +166,11 @@
 
 ### 2-3 pm
 
- *collab*   
- - *Tutorial*: Compute Canada (2pm, Tristan Glatard)
+- *Tutorial*: NIAK - fMRI preprocessing, connectome generation (2pm, Pierre Bellec)
+
+### 3-4 pm
+
+ - *Tutorial*: Compute Canada (3pm, Tristan Glatard)  
 
 ### 4-5 pm
 
@@ -195,6 +199,20 @@
    - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
    - [created a plotly account](https://plot.ly/accounts/login/?action=signup#/)
    - some experience with matplotlib helps but we can cover the basics
+
+### 2-3pm
+
+ - *Tutorial*: Keras (2pm, A Doyle)
+
+### 4-5 pm
+
+ *wrap-up session*
+
+## Monday, May 28th 2018
+
+### 11-12 am
+
+ - *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
 
 ### 4-5 pm
 
