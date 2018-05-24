@@ -64,7 +64,7 @@ Create a script:
 
 Make it executable:
 
-```chmod 7555 ./script.sh```
+```chmod 755 ./script.sh```
 
 Submit it!
 
@@ -87,6 +87,12 @@ The easiest way to transfer your files to/from clusters is through ```scp```,
 a copy command that works over ```ssh```:
 
 ```scp file.txt <username>@graham.computecanada.ca:.```
+
+Another useful command to transfer your data is ```rsync```:
+
+```rsync -avz local_dir <username>@graham.computecanada.ca:remote_dir```
+
+See ```man rsync``` for more information.
 
 ### Use pre-install software
 
