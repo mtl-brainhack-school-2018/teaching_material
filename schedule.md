@@ -169,7 +169,7 @@
 - *Tutorial*: NIAK - fMRI preprocessing, connectome generation (2pm, Pierre Bellec)
 
 ### 3-4 pm
-  
+
  - *Tutorial*: Compute Canada (3pm, Tristan Glatard)  
 
 ### 4-5 pm
@@ -207,14 +207,13 @@
 ### 4-5 pm
 
  *wrap-up session*
- 
-## Monday, May 24th 2018
+
+## Monday, May 28th 2018
 
 ### 11-12 am
 
- *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
- 
+ - *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
+
 ### 4-5 pm
 
  *wrap-up session*
-
