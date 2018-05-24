@@ -162,7 +162,7 @@
 
 ### 1-2 pm
 
- - *Seminar*: Erin W Dickie
+ - *Seminar*: Erin W Dickie - **Personalized Connectomics for the Study of Brain Health and Disease** [(slides)](https://docs.google.com/presentation/d/1NYM356uv_g2tknHHLq1rJbVpUXGU4dsPLa76yJUiUXU/view?usp=sharing)
 
 ### 2-3 pm
 
@@ -184,7 +184,7 @@
 
 ### 9-10 am
 
- - *Tutorial*: ciftify (Erin W Dickie)
+ - *Tutorial*: ciftify (Erin W Dickie) (https://edickie.github.io/ciftify)
 
 ### 10-11am
 
