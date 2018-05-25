@@ -2,7 +2,7 @@
 
 ## Monday, May 14th
 
-### AM 9-12 am
+### 9-12 am
 
  * *tutorial*: Welcome and brainhack school (Pierre Bellec)
  * *tutorial*: Git and github tutorial (Elizabeth M Dupre)
@@ -188,7 +188,7 @@
 
 ### 10-11am
 
- - *Tutorial*: NiLearn (10:30am, J Vogel)
+ - **!!MOVED TO MONDAY 28th!!** *Tutorial*: NiLearn (10:30am, J Vogel)
 
 ### 1-2 pm
 
@@ -210,9 +210,13 @@
 
 ## Monday, May 28th 2018
 
-### 11-12 am
+### 11-12 pm
 
  - *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
+
+### 1-2pm
+
+ - *Tutorial*: NiLearn (J Vogel)
 
 ### 4-5 pm
 
