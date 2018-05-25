@@ -185,6 +185,7 @@
 ### 9-10 am
 
  - *Tutorial*: ciftify (Erin W Dickie) (https://edickie.github.io/ciftify)
+    - [Slides I should have presented during the tutorial](https://docs.google.com/presentation/d/1XsFtpJ__kI6Bi5fc3CjZ46qOHW8-t3MIboC6JPRUW9s/edit?usp=sharing)
 
 ### 10-11am
 
