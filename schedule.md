@@ -221,4 +221,40 @@
 
 ### 4-5 pm
 
- *wrap-up session*
+ *open session*
+
+## Tuesday, May 29th 2018
+
+### 9-10 pm
+
+ - *Tutorial*: interactive scientific visualization (Anisha Keshavan)
+
+### 4-5 pm
+
+ *Open session*
+ 
+## Wednesday, May 30th 2018
+
+
+### 4-5 pm
+
+ *Open session*
+ 
+## Thursday, May 31th 2018
+
+### 1-2 pm
+
+ *Seminar*: Leveraging Web Technology to Address Challenges with Big Data in Neuroscience (Anisha Keshavan)
+
+### 3-5 pm
+
+ *Wrap-up*
+ 
+## Friday, June 1st 2018
+
+### 3-5 pm
+
+ *Wrap-up*
+ 
+
+
