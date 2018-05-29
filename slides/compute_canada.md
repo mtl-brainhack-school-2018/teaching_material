@@ -49,7 +49,7 @@ You are now connected to a login node, as the prompt shows:
 
 ### Access a compute node, interactively
 
-```salloc --time=1:0:0 --ntasks=1 --account=def-glatard```
+```salloc --time=1:0:0 --ntasks=1 --cpus-per-task=32 --account=def-glatard```
 
 The prompt will tell you the name of the computer that was allocated to you [here, ```gra796```]:
 
@@ -64,7 +64,7 @@ Create a script:
 
 Make it executable:
 
-```chmod 7555 ./script.sh```
+```chmod 755 ./script.sh```
 
 Submit it!
 
@@ -88,6 +88,12 @@ a copy command that works over ```ssh```:
 
 ```scp file.txt <username>@graham.computecanada.ca:.```
 
+Another useful command to transfer your data is ```rsync```:
+
+```rsync -avz local_dir <username>@graham.computecanada.ca:remote_dir```
+
+See ```man rsync``` for more information.
+
 ### Use pre-install software
 
 The ```module``` command shows the software packages that are already installed on the cluster and ready to use:
@@ -110,6 +116,10 @@ and install all the dependencies in it with ```pip```.
 * Linux binaries: copy them directly to the cluster.
 * C/C++: if your code needs to be recompiled, submit an interactive job and compile your code there.
 * Install your code in a Singularity container and run it on the cluster (```module load singularity```).
+
+### Other topics
+* Getting Started Guide: https://docs.computecanada.ca/wiki/Getting_Started_with_the_new_National_Systems
+* File systems: https://www.youtube.com/watch?v=66_WGFpjwew
 
 
 ## Clouds

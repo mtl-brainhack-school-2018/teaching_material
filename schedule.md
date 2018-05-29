@@ -2,7 +2,7 @@
 
 ## Monday, May 14th
 
-### AM 9-12 am
+### 9-12 am
 
  * *tutorial*: Welcome and brainhack school (Pierre Bellec)
  * *tutorial*: Git and github tutorial (Elizabeth M Dupre)
@@ -81,11 +81,12 @@
  * *pitch*: nilearn (Jake Vogel)
  * *pitch*: Neurovault (Tal Yarkoni)
  * *pitch*: pliers (Tal Yarkoni)
- 
+
 ### 4-5 pm
   * Gabriel Desrosiers-Gregoire https://github.com/mtl-brainhack-school-2018/Gabriel_D-G
-  * TBD
-  * TBD
+  * Liza
+  * Vincente
+  * AmanPreet Badhwar
 
 ## Friday, May 18th
 
@@ -94,8 +95,6 @@
  * *pitch*: M/EEG processing (Karim Jerbi) +  + OMEGA (KJ?)
  * *pitch*: MNE (Anne-Lise)
  * *pitch*: OMEGA (Karim Jerbi)
- 
-
 
 ### 1-2 pm
 
@@ -104,6 +103,161 @@
  * *pitch*: the qMRlab toolbox for quantitative MRI processing (Nikola Stikov)
 
 ### 4-5 pm
-  * TBD
-  * TBD
-  * TBD
+  * Louis-Simon https://github.com/mtl-brainhack-school-2018/louissimon
+  * Arna Gosh
+  * Tommy
+  * Marie
+
+## Tuesday, May 22nd
+
+### 9-11 am
+
+ *Open hacking*
+
+### 11-12 am
+
+ *Planning session*: collab and tutorials
+
+### 1-3 pm
+
+ *Open hacking*
+ - *Tutorial*: Pandas (1pm, Angela Tam)
+
+### 3-4 pm
+  * *Catch session*
+    * Amal: https://docs.google.com/presentation/d/1oWZx0adj5hw725Fs8_mRohrJexZnaMgLBMglBGImTWw/edit#slide=id.g3ab182f317_4_117
+    * Kamran
+
+## Wednesday, May 23nd
+
+### 10-11 am
+
+  - *Tutorial*: Datalad (10am, JB Poline)   
+  - *Tutorial*: Scikit-Learn (10:30am, J Vogel)
+
+### 1-2 pm
+
+ - *Tutorial*: Loris (1pm, Cécile Madjar and Samir Das)
+
+### 2-3 pm
+
+ *collab*
+
+### 4-5 pm
+ * *Catch session*
+   * Guido
+
+ *wrap-up session*
+
+
+## Thursday, May 24th
+
+### 10-11a
+
+- *Tutorial*: FMRIPrep (10am, Elizabeth DuPre)
+
+### 11a-12p
+
+- *Tutorial*: Nipype (11am, Elizabeth DuPre)
+
+### 1-2 pm
+
+ - *Seminar*: Erin W Dickie - **Personalized Connectomics for the Study of Brain Health and Disease** [(slides)](https://docs.google.com/presentation/d/1NYM356uv_g2tknHHLq1rJbVpUXGU4dsPLa76yJUiUXU/view?usp=sharing)
+
+### 2-3 pm
+
+- *Tutorial*: NIAK - fMRI preprocessing, connectome generation (2pm, Pierre Bellec)
+
+### 3-4 pm
+
+ - *Tutorial*: Compute Canada (3pm, Tristan Glatard)  
+
+### 4-5 pm
+
+ *wrap-up session*
+
+### 5-7 pm
+
+  *Open science beer - [McCarold](https://github.com/SIMEXP/niak.git)*
+
+## Friday, May 25th
+
+### 9-10 am
+
+ - *Tutorial*: ciftify (Erin W Dickie) (https://edickie.github.io/ciftify)
+    - [Slides I should have presented during the tutorial](https://docs.google.com/presentation/d/1XsFtpJ__kI6Bi5fc3CjZ46qOHW8-t3MIboC6JPRUW9s/edit?usp=sharing)
+
+### 10-11am
+
+ - **!!MOVED TO MONDAY 28th!!** *Tutorial*: NiLearn (10:30am, J Vogel)
+
+### 1-2 pm
+
+ *collab*   
+ - *Tutorial*: plotly (1pm, @surchs)   
+ Requirements:
+   - plotly installed (e.g. through [conda](https://www.anaconda.com/download/))
+   - [jupyter lab installed](https://github.com/mtl-brainhack-school-2018/teaching_material/blob/master/slides/jupyter_notebook.md)
+   - [created a plotly account](https://plot.ly/accounts/login/?action=signup#/)
+   - some experience with matplotlib helps but we can cover the basics
+
+### 2-3pm
+
+ - *Tutorial*: Keras (2pm, A Doyle)
+
+### 4-5 pm
+
+ *wrap-up session*
+
+## Monday, May 28th 2018
+
+### 11-12 pm
+
+ - *Seminar*: the Canadian Open Neuroscience Platform (Naser Muja)
+
+### 1-2pm
+
+ - *Tutorial*: NiLearn (J Vogel)
+
+### 4-5 pm
+
+ *open session*
+
+## Tuesday, May 29th 2018
+
+### 9-10 pm
+
+ - *Tutorial*: interactive scientific visualization (Anisha Keshavan)
+
+### 4-5 pm
+
+ *Open session*
+ 
+## Wednesday, May 30th 2018
+
+### 1-2 pm
+
+ *Tutorial*: MaGET
+ 
+### 4-5 pm
+
+ *Open session*
+ 
+## Thursday, May 31th 2018
+
+### 1-2 pm
+
+ *Seminar*: Leveraging Web Technology to Address Challenges with Big Data in Neuroscience (Anisha Keshavan)
+
+### 3-5 pm
+
+ *Wrap-up*
+ 
+## Friday, June 1st 2018
+
+### 3-5 pm
+
+ *Wrap-up*
+ 
+
+

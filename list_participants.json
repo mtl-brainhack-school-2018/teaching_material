@@ -6,8 +6,10 @@
     "Background": "Undergrad: maths, MsC: image processing / machine learning, PhD, post-doc: fMRI & stats/machine learning",
     "Webpage": "bellec.simexp-lab.org",
     "Social media": "twitter: @pierre_bellec",
-    "Repository": "https://github.com/mtl-brainhack-school-2018/brainsprite"
-  },  "Uku Vainik": {
+    "Repository": "https://github.com/mtl-brainhack-school-2018/brainsprite",
+    "Github handle": "pbellec"
+  },  
+ "Uku Vainik": {
     "Where I'm from": "MNI, McGill (Canada) & University of Tartu (Estonia)",
     "What I do": "Postdoctoral researcher, dept of Neurology and Neurosurgery",
     "What I want to learn at Brainhack": "bring together several brain imaging modalities in big datasets in meaningful and useful ways",
@@ -15,14 +17,16 @@
     "Background": "Undergrad: questionnaires & social capital, MA: EEG & impulsivity, PhD, post-doc: neurobehavioural correlates of obesity, and their genetic background",
     "Webpage": "-",
     "Social media": "twitter: @ukuv",
-    "Repository": "https://github.com/ukuvainik/"
+    "Repository": "https://github.com/ukuvainik/",
+    "Github handle": "ukuvainik"
   },
-   "Éloi Prévost" : {
+  "Éloi Prévost" : {
     "Where I'm from": "Université de Montréal (Neurosciences), CRIUGM",
     "What I do": "Student in Neurosciences, Internship at CRIUGM with Dr Bellec",
     "What I want to learn at Brainhack": "Run fMRIprep in Docker and Analyse Results",
     "Talk to Me About":"fMRI preprocessing, Brain Anatomy, Physiology",
     "email":"eloi.prevost@umontreal.ca",
+    "Github handle": "eprevost97"
   },
   "Gabriel Desrosiers": {
      "Where I'm from": "Douglas institute, McGill University",
@@ -32,7 +36,8 @@
      "Background": "Undergrad: Neuroscience",
      "Webpage": "",
      "Social media": "",
-     "Repository": "https://github.com/Gab-D-G/brainhack-school"
+     "Repository": "https://github.com/Gab-D-G/brainhack-school",
+     "Github handle": "Gab-D-G"
    },
    "Louis-Simon Rousseau": {
     "Where I'm from": "CRIUSMQ, Université Laval",
@@ -40,7 +45,8 @@
     "What I want to learn at Brainhack": "python, fmri, multivariate analysis"
     "Talk to me about": "white matter hyperintensities, Alzheimer's disease, immunology, psychology"
     "Background": "BSc: biomedical sciences, MSc: immunology, BA: psychology, PhD: neuropsychology"
-    "Repository": "https://github.com/Louis-Simon91/brainhack-school"
+    "Repository": "https://github.com/Louis-Simon91/brainhack-school",
+    "Github handle": "Louis-Simon91"
   },
    "Liza Levitis": {
     "Where I'm from": "MCIN, MNI",
@@ -49,7 +55,8 @@
     "Talk to Me About": "Alzheimer's disease, machine learning, neuroinformatics (LORIS)",
     "Background": "Undergrad: cognitive science, LORIS software developer",
     "Social media": "slack @llevitis",
-    "Repository": "https://github.com/llevitis/DeepQC",
+    "Repository": "https://github.com/mtl-brainhack-school-2018/lizalevitis",
+    "Github handle": "llevitis"
   },
   "Elizabeth DuPre": {
     "Where I'm from": "MNI",
@@ -70,7 +77,8 @@
     "Background": "Undergrad: Electrical Engg with thesis in Deep Learning for breast cancer detection from histopathology images",
     "Webpage": "https://arnaghosh.github.io/",
     "Social media": "",
-    "Repository": "https://github.com/arnaghosh"
+    "Repository": "https://github.com/arnaghosh",
+    "Github handle": "arnaghosh"
    },
  "Noor Al-Sharif": {
     "Where I'm from": "MNI, McGill University",
@@ -80,7 +88,9 @@
     "Background": "BSc: Neuroscience, RA: Structural image processing, PhD: in progress (I think)",
     "Webpage": "",
     "Social media": "",
-    "Repository": "https://github.com/mtl-brainhack-school-2018/nooralsh"
+    "Repository": "https://github.com/mtl-brainhack-school-2018/nooralsh",
+    "Github handle": "nooralsh",
+    "Conspirators": "Éloi, Gabriel, Kamaran, Louis-Simon, Marie, Tommy, Vincente, Violaine, Elizabeth"
   },
    "Sebastian Urchs": {
     "Where I'm from": "CRIUGM, Université de Montréal; MNI, McGill",
@@ -159,5 +169,31 @@
      "Backgroud": "Bacc ENG, MScA ENG, MD, Family doctor for 10 years in geriatrics",
      "Repository":"htpps://github.com/mtl-brainhack-school-2018/rheauls"
  },
+  "Guido Guberman": {
+    "Where I'm from": "MNI, McGill University",
+    "What I do": "MD/PhD student, Integrated Program in Neuroscience, department of Neurology and Neurosurgery",
+    "What I want to learn at Brainhack": "Python, building pipelines, MRI statistic analysis",
+    "Talk to Me About": "DWI processing and analysis, structural connectivity, Traumatic Brain Injuries",
+    "Background": "Undergrad: Cognitive Sciences (McGill)",
+    "Webpage": "",
+    "Social media": "twitter: @GubermanGuido",
+    "Repository":"https://github.com/mtl-brainhack-school-2018/GuidoGuberman.git"
+  },
+    "Marie Caillaud": {
+      "Where I'm from": "CRIUGM, Université de Montréal",
+      "What I do": "Postdoctoral fellow, department of psychology",
+      "What I want to learn at Brainhack": "structural and functional connectivity, graph theory, connective data visualization",
+      "Talk to Me About": "Alzheimer's disease, structural MRI, task fMRI, neuropsychology",
+      "Background": "PhD : Cognitive, structural and functional modifications in Huntington's disease",
+      "Social media": "marie.caillaud@umontreal.ca",
+      "Repository": "https://github.com/mtl-brainhack-school-2018/Marie"
+  },
+      "Andrew Doyle": {
+      "Where I'm from": "McGill, Centre for Integrative Neurscience",
+      "What I do": "Software Developer",
+      "What I want to learn at Brainhack": "time management",
+      "Talk to Me About": "Machine/deep learning, noise",
+      "Background": "M.Eng : Electrical Engineering in Medical Image Analysis",
+      "Social media": "@crocodoyle",
+  },
 }
-
