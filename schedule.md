@@ -235,7 +235,10 @@
  
 ## Wednesday, May 30th 2018
 
+### 1-2 pm
 
+ *Tutorial*: MaGET
+ 
 ### 4-5 pm
 
  *Open session*
