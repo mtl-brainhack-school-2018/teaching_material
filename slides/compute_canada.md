@@ -49,7 +49,7 @@ You are now connected to a login node, as the prompt shows:
 
 ### Access a compute node, interactively
 
-```salloc --time=1:0:0 --ntasks=1 --cpu-per-task 32 --account=def-glatard```
+```salloc --time=1:0:0 --ntasks=1 --cpus-per-task=32 --account=def-glatard```
 
 The prompt will tell you the name of the computer that was allocated to you [here, ```gra796```]:
 
