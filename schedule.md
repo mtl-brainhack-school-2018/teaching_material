@@ -245,6 +245,9 @@
  
 ## Thursday, May 31th 2018
 
+### 9-10 am 
+ *Tutorial*: Multivariate statistics (Bratislav Misic)
+ 
 ### 1-2 pm
 
  *Seminar*: Leveraging Web Technology to Address Challenges with Big Data in Neuroscience (Anisha Keshavan)
