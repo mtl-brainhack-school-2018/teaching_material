@@ -239,9 +239,9 @@
 
  *Tutorial*: MaGET
  
-### 4-5 pm
+### 4-8 pm
 
- *Open session*
+ *Open science beer*: at Darling, 4328 St Laurent Blvd, Montreal, QC H2W 1Z3
  
 ## Thursday, May 31th 2018
 
@@ -258,9 +258,13 @@
  
 ## Friday, June 1st 2018
 
-### 3-5 pm
+### 1-3 pm
 
  *Wrap-up*
+ 
+### 5-8 pm
+
+ *Social* at [le chat bleu](http://www.centrechatbleu.com/en/boxing.html)
  
 
 
